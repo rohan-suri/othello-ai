@@ -264,7 +264,7 @@ import javax.swing.UIManager;
          }
          else
          {
-        	 for(int x = 1; x < board.length-1; x++)
+        	 /*for(int x = 1; x < board.length-1; x++)
  	        {
  		       	 for(int y = 1; y < board[x].length-1; y++)
  		       	 {
@@ -283,7 +283,7 @@ import javax.swing.UIManager;
  				{
  					doAction(ai_move.mX, ai_move.mY);
  				}
- 			}).start();
+ 			}).start();*/
          }
       }
       

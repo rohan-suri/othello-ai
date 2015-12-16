@@ -1,5 +1,3 @@
-   //Torbert, e-mail: mr@torbert.com, website: www.mr.torbert.com
-	//version 7.14.2003
 
    import javax.swing.JFrame;
    public class OthelloDriver
